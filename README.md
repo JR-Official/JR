@@ -1,8 +1,8 @@
-# JR Programming Language
+# JR. Programming Language
 
-Welcome to the **JR Programming Language** repository! 🚀
+Welcome to the **JR. Programming Language** repository! 🚀
 
-JR is a modern, lightweight programming language designed for simplicity, readability, and ease of use. Whether you're a seasoned developer or just starting your coding journey, JR provides the tools and flexibility you need to build amazing projects.
+JR. is a modern, lightweight programming language designed for simplicity, readability, and ease of use whether you're a seasoned developer or just starting your journey, JR. aims to provide the tools and flexibility you need to build amazing projects!
 
 ## Features
 
