@@ -11,6 +11,4 @@ JR is a modern, lightweight programming language designed for simplicity, readab
 - **Extensible**: Easily add new features and libraries to extend the functionality of the language.
 - **Cross-Platform**: Run JR code on multiple platforms with consistent performance.
 
-## Getting Started
-
 ### Installation (In Progress)
